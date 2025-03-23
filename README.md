@@ -28,7 +28,8 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-### Youtube Tutorial Series:
+# Resources
+#### Youtube Tutorial Series:
 [Part 1](https://www.youtube.com/watch?v=kP7wQoFXUSc)
 |
 [Part 2](https://www.youtube.com/watch?v=unz3RgL9A-Y)
@@ -36,3 +37,6 @@ python manage.py runserver
 [Part 3](https://www.youtube.com/watch?v=3819x3b43Ok)
 |
 [Part 4](https://www.youtube.com/watch?v=pyV2_F9wlk8)
+
+#### Repository:
+[Code](https://github.com/veryacademy/YT-GraphQL-Django-Queries-Introduction)

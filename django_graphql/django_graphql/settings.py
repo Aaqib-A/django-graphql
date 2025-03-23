@@ -47,6 +47,7 @@ INSTALLED_APPS = [
 
     # My Apps
     "books",
+    "quiz",
 ]
 
 MIDDLEWARE = [
