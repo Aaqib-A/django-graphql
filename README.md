@@ -3,7 +3,7 @@ A Django application with GraphQL interface.
 
 
 Current Progress:
-https://youtu.be/kP7wQoFXUSc?si=1LokRxWPfO2k54U-&t=840
+https://www.youtube.com/watch?v=3819x3b43Ok
 
 # Setup:
 ```
